@@ -1,0 +1,320 @@
+"UserConfigData"
+{
+	"Servers"
+	{
+		"DialogServerBrowser.res"
+		{
+			"GameTabs"
+			{
+				"CustomGames"
+				{
+					"gamelist"
+					{
+						"configVersion"		"2"
+						"lastBarWidth"		"607"
+						"0_hidden"		"0"
+						"0_width"		"16"
+						"1_hidden"		"0"
+						"1_width"		"16"
+						"2_hidden"		"0"
+						"2_width"		"16"
+						"3_hidden"		"0"
+						"3_width"		"165"
+						"4_hidden"		"1"
+						"4_width"		"64"
+						"5_hidden"		"0"
+						"5_width"		"127"
+						"6_hidden"		"0"
+						"6_width"		"55"
+						"7_hidden"		"0"
+						"7_width"		"40"
+						"8_hidden"		"0"
+						"8_width"		"97"
+						"9_hidden"		"0"
+						"9_width"		"55"
+						"10_hidden"		"0"
+						"10_width"		"21"
+					}
+				}
+				"FavoriteGames"
+				{
+					"gamelist"
+					{
+						"configVersion"		"2"
+						"lastBarWidth"		"607"
+						"0_hidden"		"0"
+						"0_width"		"16"
+						"1_hidden"		"0"
+						"1_width"		"16"
+						"2_hidden"		"0"
+						"2_width"		"16"
+						"3_hidden"		"0"
+						"3_width"		"148"
+						"4_hidden"		"1"
+						"4_width"		"64"
+						"5_hidden"		"0"
+						"5_width"		"112"
+						"6_hidden"		"0"
+						"6_width"		"55"
+						"7_hidden"		"0"
+						"7_width"		"40"
+						"8_hidden"		"0"
+						"8_width"		"149"
+						"9_hidden"		"0"
+						"9_width"		"55"
+					}
+					"BuildModeDialog"
+					{
+						"xpos"		"0"
+						"ypos"		"0"
+						"wide"		"375"
+						"tall"		"401"
+					}
+				}
+				"HistoryGames"
+				{
+					"gamelist"
+					{
+						"configVersion"		"2"
+						"lastBarWidth"		"837"
+						"0_hidden"		"0"
+						"0_width"		"16"
+						"1_hidden"		"0"
+						"1_width"		"16"
+						"2_hidden"		"0"
+						"2_width"		"16"
+						"3_hidden"		"0"
+						"3_width"		"250"
+						"4_hidden"		"1"
+						"4_width"		"64"
+						"5_hidden"		"0"
+						"5_width"		"112"
+						"6_hidden"		"0"
+						"6_width"		"55"
+						"7_hidden"		"0"
+						"7_width"		"40"
+						"8_hidden"		"0"
+						"8_width"		"109"
+						"9_hidden"		"0"
+						"9_width"		"55"
+						"10_hidden"		"0"
+						"10_width"		"169"
+					}
+					"BuildModeDialog"
+					{
+						"xpos"		"709"
+						"ypos"		"171"
+						"wide"		"300"
+						"tall"		"420"
+					}
+				}
+				"SpectateGames"
+				{
+					"gamelist"
+					{
+						"configVersion"		"2"
+						"lastBarWidth"		"918"
+						"0_hidden"		"0"
+						"0_width"		"16"
+						"1_hidden"		"0"
+						"1_width"		"16"
+						"2_hidden"		"0"
+						"2_width"		"16"
+						"3_hidden"		"0"
+						"3_width"		"518"
+						"4_hidden"		"1"
+						"4_width"		"64"
+						"5_hidden"		"0"
+						"5_width"		"112"
+						"6_hidden"		"0"
+						"6_width"		"55"
+						"7_hidden"		"0"
+						"7_width"		"40"
+						"8_hidden"		"0"
+						"8_width"		"90"
+						"9_hidden"		"0"
+						"9_width"		"55"
+					}
+				}
+				"LanGames"
+				{
+					"gamelist"
+					{
+						"configVersion"		"2"
+						"lastBarWidth"		"991"
+						"0_hidden"		"0"
+						"0_width"		"16"
+						"1_hidden"		"0"
+						"1_width"		"16"
+						"2_hidden"		"0"
+						"2_width"		"16"
+						"3_hidden"		"0"
+						"3_width"		"591"
+						"4_hidden"		"1"
+						"4_width"		"64"
+						"5_hidden"		"0"
+						"5_width"		"112"
+						"6_hidden"		"0"
+						"6_width"		"55"
+						"7_hidden"		"0"
+						"7_width"		"40"
+						"8_hidden"		"0"
+						"8_width"		"90"
+						"9_hidden"		"0"
+						"9_width"		"55"
+					}
+				}
+				"FriendsGames"
+				{
+					"gamelist"
+					{
+						"configVersion"		"2"
+						"lastBarWidth"		"991"
+						"0_hidden"		"0"
+						"0_width"		"16"
+						"1_hidden"		"0"
+						"1_width"		"16"
+						"2_hidden"		"0"
+						"2_width"		"16"
+						"3_hidden"		"0"
+						"3_width"		"406"
+						"4_hidden"		"1"
+						"4_width"		"64"
+						"5_hidden"		"0"
+						"5_width"		"112"
+						"6_hidden"		"0"
+						"6_width"		"55"
+						"7_hidden"		"0"
+						"7_width"		"40"
+						"8_hidden"		"0"
+						"8_width"		"275"
+						"9_hidden"		"0"
+						"9_width"		"55"
+					}
+				}
+				"BlacklistedGames"
+				{
+					"gamelist"
+					{
+						"lastBarWidth"		"991"
+						"0_hidden"		"0"
+						"0_width"		"856"
+						"1_hidden"		"1"
+						"1_width"		"64"
+						"2_hidden"		"0"
+						"2_width"		"136"
+					}
+					"BuildModeDialog"
+					{
+						"xpos"		"758"
+						"ypos"		"281"
+						"wide"		"300"
+						"tall"		"420"
+					}
+				}
+			}
+			"xpos"		"490"
+			"ypos"		"276"
+			"wide"		"870"
+			"tall"		"492"
+		}
+	}
+	"BuildModeDialog"
+	{
+		"xpos"		"524"
+		"ypos"		"283"
+		"wide"		"375"
+		"tall"		"401"
+	}
+	"resource"
+	{
+		"particlesystemdefinitionbrowser.res"
+		{
+			"ParticleSystems"
+			{
+				"lastBarWidth"		"655"
+				"0_hidden"		"0"
+				"0_width"		"656"
+			}
+		}
+		"vmtpicker.res"
+		{
+			"PreviewSplitter"
+			{
+				"child0"
+				{
+					"AssetSplitter"
+					{
+						"child1"
+						{
+							"AssetBrowser"
+							{
+								"lastBarWidth"		"103"
+								"0_hidden"		"0"
+								"0_width"		"52"
+								"1_hidden"		"0"
+								"1_width"		"52"
+							}
+						}
+						"0_splitter_pos"		"200.000000"
+						"1_splitter_pos"		"400.000000"
+					}
+				}
+				"child1"
+				{
+					"2D3DSplitter"
+					{
+						"0_splitter_pos"		"200.000000"
+						"1_splitter_pos"		"400.000000"
+					}
+				}
+				"0_splitter_pos"		"134.000000"
+				"1_splitter_pos"		"268.000000"
+			}
+			"FolderFilter"		"asmr\\"
+		}
+		"vmtpickerframe.res"
+		{
+			"AssetPicker"
+			{
+				"PreviewSplitter"
+				{
+					"child0"
+					{
+						"AssetSplitter"
+						{
+							"child1"
+							{
+								"AssetBrowser"
+								{
+									"lastBarWidth"		"103"
+									"0_hidden"		"0"
+									"0_width"		"52"
+									"1_hidden"		"0"
+									"1_width"		"52"
+								}
+							}
+							"0_splitter_pos"		"200.000000"
+							"1_splitter_pos"		"400.000000"
+						}
+					}
+					"child1"
+					{
+						"2D3DSplitter"
+						{
+							"0_splitter_pos"		"200.000000"
+							"1_splitter_pos"		"400.000000"
+						}
+					}
+					"0_splitter_pos"		"134.000000"
+					"1_splitter_pos"		"268.000000"
+				}
+				"FolderFilter"		"asmr\\"
+			}
+			"xpos"		"666"
+			"ypos"		"220"
+			"wide"		"268"
+			"tall"		"460"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+// quick file that maps steam app id to game info
+"ClientGameInfo"
+{
+	// steam app id's
+	"Apps"
+	{
+		// CS:S
+		"240"
+		{
+			"gamedir"	"cstrike"
+			"icon"		"steam/games/icon_cs"
+			"serverbrowsername"		"Left 4 Dead 2"
+		}
+	}
+}
